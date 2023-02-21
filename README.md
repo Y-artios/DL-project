@@ -13,7 +13,7 @@ The notebook `create lr samples.ipynb` is used to create the low-resolution samp
 
 ## How Test and Train
 
-Both training and testing can be done by modifying the `srresnet_config.py` file and `srgan_config.py` file in `SRGAN-SRResNet`. 
+Both training and testing can be done by modifying the `srresnet_config.py` file and `srgan_config.py` file in `SRGAN-SRResNet` and then running either `train_srgan.py`, `train_srresnet.py`, `test_srgan.py` or `test_srresnet.py` depending on what we want.
 
 ## Authors
 - Youssef Attia El Hili
