@@ -5,9 +5,15 @@ The code is based on the op-for-op PyTorch reimplementation of [Photo-Realistic 
 ## Pretrained weights
 - [Google Drive](https://drive.google.com/drive/folders/17ju2HN7Y6pyPK2CC_AqnAfTOe9_3hCQ8?usp=sharing)
 
+## Data
+
+The WorldSat dataset can be downloaded and preprocessed by running `Downloading the data.ipynb` and `Preprocessing_the_database.ipynb` in `Data`. 
+The notebook `create lr samples.ipynb` is used to create the low-resolution samples for the test.
+
+
 ## How Test and Train
 
-Both training and testing only need to modify the `srresnet_config.py` file and `srgan_config.py` file. 
+Both training and testing can be done by modifying the `srresnet_config.py` file and `srgan_config.py` file in `SRGAN-SRResNet`. 
 
 ## Authors
 - Youssef Attia El Hili
