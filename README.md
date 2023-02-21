@@ -11,7 +11,7 @@ The WorldSat dataset can be downloaded and preprocessed by running `Downloading 
 The notebook `create lr samples.ipynb` is used to create the low-resolution samples for the test.
 
 
-## How Test and Train
+## How to Test and Train
 
 Both training and testing can be done by modifying the `srresnet_config.py` file and `srgan_config.py` file in `SRGAN-SRResNet` and then running either `train_srgan.py`, `train_srresnet.py`, `test_srgan.py` or `test_srresnet.py` depending on what we want.
 
