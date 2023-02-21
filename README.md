@@ -1,5 +1,5 @@
 # DL-project
-This repository contains our code for the MVA Deep Learning project.
+This repository contains our code for the MVA Deep Learning course project.
 The code is based on the op-for-op PyTorch reimplementation of [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802v5) which can be found [here](https://github.com/Lornatang/SRGAN-PyTorch#how-test-and-train).
 
 ## Pretrained weights
