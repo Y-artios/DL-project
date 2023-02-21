@@ -7,7 +7,7 @@ The code is based on the op-for-op PyTorch reimplementation of [Photo-Realistic 
 
 ## Data
 
-The WorldSat dataset can be downloaded and preprocessed by running `Downloading the data.ipynb` and `Preprocessing_the_database.ipynb` in `Data`. 
+The WorldSat dataset can be downloaded and preprocessed by running `Downloading the data.ipynb` and `Preprocessing_the_database.ipynb` in `Data` and then `split_dataset.ipynb` in `SRGAN-SRResNet/scripts`. 
 The notebook `create lr samples.ipynb` is used to create the low-resolution samples for the test.
 
 
